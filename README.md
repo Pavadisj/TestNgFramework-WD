@@ -1,1 +1,2 @@
 # TestNgFramework-WD
+git add .
